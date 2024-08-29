@@ -1,0 +1,8 @@
+URL:
+  'https://archive.org/search.php?query=title%3A%28%E6%BB%BF%E6%B4%B2%E6%97%A5%E5%A0%B1%29+AND+description%3A%28Mansh%C5%AB+Nipp%C5%8D%29&sort=date&&and[]=year%3A'
+
+DOWNLOAD_URI:
+  'https://archive.org/download/'
+
+SOURCE_TYPE:
+  'source="/services/img/'
