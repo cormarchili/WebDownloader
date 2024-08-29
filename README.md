@@ -13,4 +13,10 @@ $ cd WebDownloader
 $ pip install requirements.txt
 ```
 
-Then, run the notebook cells to start downloading.
+Then run:
+```bash
+$ python download_script.py
+```
+
+
+Otherwise, for fine-grained control on paths and actions, run the notebook cells and start downloading.
